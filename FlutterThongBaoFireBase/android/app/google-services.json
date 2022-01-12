@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "360413918897",
+    "project_id": "flutter-thongbao-firebase",
+    "storage_bucket": "flutter-thongbao-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360413918897:android:23d760b87d064da173d490",
+        "android_client_info": {
+          "package_name": "com.example.flutterthongbaofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "360413918897-jtppf47l1gnu8k33l7n4t2qdvlgit7ca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg2EdMz2qAK_nb2ReCA6itSjGyjubeNCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "360413918897-jtppf47l1gnu8k33l7n4t2qdvlgit7ca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
